@@ -1,3 +1,9 @@
 this file1 is created by main branch at github
 
+<<<<<<< HEAD
 this file is modified in main
+=======
+ this file is modified in b2 at local repo
+>>>>>>> b2
+
+this line is added after merging b2 in main
